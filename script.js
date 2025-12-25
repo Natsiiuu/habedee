@@ -1193,3 +1193,13 @@ function handleContinueNavigation() {
             showScreen('main');
     }
 }
+
+// --- KODE MUSIK BACKSOUND ---
+const musik = document.getElementById("backsound");
+if (musik) {
+    document.body.addEventListener("click", function() {
+        musik.play().catch(error => {
+            console.log("Audio belum bisa diputar otomatis: ", error);
+        });
+    }, { once: true }); 
+}
