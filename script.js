@@ -333,7 +333,7 @@ function startPhotoShow() {
         },
         {
             text: 'Liat Bulan',
-            image: './images/photo3.jpg'
+            image: './photo3.jpg'
         },
         {
             text: 'Ini Abis Aku Masuk Got Unand',
