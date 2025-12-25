@@ -325,11 +325,11 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Poto Waktu Kita Lengser',
-            image: './images/photo1.jpg'
+            image: './photo1.jpg'
         },
         {
             text: 'Ini Waktu Smapsic ',
-            image: './images/photo2.jpg'
+            image: './photo2.jpg'
         },
         {
             text: 'Liat Bulan',
@@ -337,23 +337,23 @@ function startPhotoShow() {
         },
         {
             text: 'Ini Abis Aku Masuk Got Unand',
-            image: './images/photo4.jpg'
+            image: './photo4.jpg'
         },
         {
             text: 'Main pt.3 Abis Ujian',
-            image: './images/photo5.jpg'
+            image: './photo5.jpg'
         },
         {
             text: 'Ini Lucuu ',
-            image: './images/photo6.jpg'
+            image: './photo6.jpg'
         },
         {
             text: 'Liat Bulan pt.2',
-            image: './images/photo7.jpg'
+            image: './photo7.jpg'
         },
         {
             text: 'Pertama Kali Kita Betiga Main ke Pantai',
-            image: './images/photo8.jpg'
+            image: './photo8.jpg'
         }
     ];
     
